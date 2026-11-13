@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">90s Rewind</string>
+    <string name="app_subtitle">Tamil 90s Archive • Sun TV, Podhigai &amp; More</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_cartoons">Cartoons</string>
+    <string name="nav_tv_shows">TV Shows</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_toys">Toys</string>
+    <string name="nav_trivia">Trivia</string>
+    <string name="search_placeholder">Search Sun TV, Marmadesam, Pambaram, Contra...</string>
+    <string name="section_tv_guide">90s Tamil &amp; Indian TV Guide</string>
+    <string name="section_superheroes">Superheroes, Trivia &amp; Themes</string>
+    <string name="section_video_games">90s Video Games Encyclopedia</string>
+    <string name="section_toys">Pambaram, Tazos &amp; 90s Treasures</string>
+    <string name="btn_play_theme">Play Theme Clip</string>
+    <string name="btn_pause_theme">Pause Theme</string>
+    <string name="btn_start_quiz">Start 90s Tamil &amp; Hero Quiz</string>
+    <string name="empty_search_title">No 90s signal found!</string>
+    <string name="empty_search_hint">Try adjusting the antenna or searching Sun TV, Podhigai, Mario, or Pambaram.</string>
+</resources>

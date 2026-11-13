@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">90ஸ் ரீவைண்ட்</string>
+    <string name="app_subtitle">90கள் தமிழ் நினைவகம் • சன் டிவி, பொதிகை</string>
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_cartoons">கார்ட்டூன்</string>
+    <string name="nav_tv_shows">டிவி ஷோ</string>
+    <string name="nav_games">கேம்ஸ்</string>
+    <string name="nav_toys">பொம்மை</string>
+    <string name="nav_trivia">வினாவிடை</string>
+    <string name="search_placeholder">சன் டிவி, மர்மதேசம், பம்பரம், கான்ட்ரா தேடுக...</string>
+    <string name="section_tv_guide">90கள் தமிழ் &amp; இந்திய டிவி வழிகாட்டி</string>
+    <string name="section_superheroes">சூப்பர் ஹீரோக்கள், தகவல்கள் &amp; பாடல்கள்</string>
+    <string name="section_video_games">90கள் வீடியோ கேம்ஸ் களஞ்சியம்</string>
+    <string name="section_toys">பம்பரம், டாசோஸ் &amp; 90கள் பொக்கிஷங்கள்</string>
+    <string name="btn_play_theme">தீம் இசையைக் கேள்</string>
+    <string name="btn_pause_theme">நிறுத்து</string>
+    <string name="btn_start_quiz">90ஸ் தமிழ் &amp; ஹீரோ வினாடி-வினா</string>
+    <string name="empty_search_title">90ஸ் சிக்னல் கிடைக்கவில்லை!</string>
+    <string name="empty_search_hint">ஆன்டெனாவைத் திருப்பி சன் டிவி, பொதிகை, மாரியோ அல்லது பம்பரம் எனத் தேடுங்கள்.</string>
+</resources>

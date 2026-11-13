@@ -1,0 +1,6 @@
+{
+  "name": "90s Rewind",
+  "description": "Nostalgic 90s Indian childhood archive featuring classic cartoons, TV shows with channels, video games, toys, superhero trivia, and retro theme music clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
